@@ -7,8 +7,9 @@ API for the calculation of word similarity based on version with [memoisation an
 Running at command line
 =======================
 
-```(normal-levenshtein "abc" "abc")
+`(normal-levenshtein "abc" "abc")`
 
+```shell
 0.33333333333333326
 ```
 
